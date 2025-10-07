@@ -25,4 +25,3 @@ The main objective is to explore the dataset, understand relationships between d
 
 ---
 
-## 📂 Project Structure
